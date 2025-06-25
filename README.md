@@ -102,10 +102,4 @@ To set up and run this project locally, follow these steps:
 * `pandas`
 * `scikit-learn`
 
-## Contributing
 
-Feel free to fork the repository and contribute to this project. You can improve existing features, add new machine learning models, or enhance the user interface.
-
-## License
-
-[Specify your license here, e.g., MIT License]
